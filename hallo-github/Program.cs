@@ -10,6 +10,8 @@ namespace hallo_github
     {
         static void Main(string[] args)
         {
+
+            // testen auch noch was zu ändern und commiten + Sync-en
         }
     }
 }
